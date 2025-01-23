@@ -55,7 +55,7 @@ Step Count Analysis for Ascending Order:
 |         40 |            2613 |            2673 |               2721 |
 |         50 |            4018 |            4093 |               4156 |
 ```
-![](public/20250122235531.png)
+![](20250122235531.png)
  
 ### Descending Order:
 ```
@@ -68,7 +68,7 @@ Step Count Analysis for Ascending Order:
 |         40 |            2673 |            2613 |               2721 |
 |         50 |            4093 |            4018 |               4159 |
 ```
-![](public/20250122235702.png)
+![](20250122235702.png)
 ## Output for Bubble Sort
 
 ### Ascending Order:
@@ -83,7 +83,7 @@ Step Count Analysis for Ascending Order:
 |         40 |             120 |            5616 |               3749 |
 |         50 |             150 |            8771 |               6064 |
 ```
-![](public/20250122235604.png)
+![](20250122235604.png)
 ### Descending Order:
 ```
 Step Count Analysis for Descending Order:
@@ -96,7 +96,7 @@ Step Count Analysis for Descending Order:
 |         40 |            5616 |             120 |               4141 |
 |         50 |            8771 |             150 |               6520 |
 ```
-![](public/20250122235749.png)
+![](20250122235749.png)
 ## Output for Insertion Sort
 
 ### Ascending Order:
@@ -111,7 +111,7 @@ Step Count Analysis for Ascending Order:
 |         40 |            2420 |            4760 |               3674 |
 |         50 |            3775 |            7450 |               5554 |
 ```
-![](public/20250122235348.png)
+![](20250122235348.png)
 ### Descending Order:
 ```
 Step Count Analysis for Descending Order:
@@ -121,7 +121,7 @@ Step Count Analysis for Descending Order:
 |         40 |            4760 |            2420 |               3509 |
 |         50 |            7450 |            3775 |               5284 |
 ```
-![](public/20250122235635.png)
+![](20250122235635.png)
 ## Custom Array Testing
 ### User Input:
 ```
